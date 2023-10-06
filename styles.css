@@ -23,7 +23,7 @@ h1 {
 }
 
 .artist-name {
-  font-size: 24px; /* Adjust the font size as needed */
+  font-size: 24px; 
 }
 
 main {
@@ -34,11 +34,11 @@ main {
 }
 
 .lyrics {
-  font-family: "Your Custom Font", sans-serif; /* Use your custom or Google font here */
+  font-family: "Your Custom Font", sans-serif; 
   font-size: 18px;
   line-height: 1.5;
   text-align: justify;
-  color: #d2caca; /* Font color for the lyrics */
+  color: #d2caca; 
   padding: 20px;
 }
 
